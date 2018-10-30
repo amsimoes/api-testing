@@ -1,14 +1,14 @@
 {
     "missions": [
         {
-            "key": 1,
+            "key": "1",
             "latlng": {"latitude": 40.20564, "longitude": -8.42955},
             "title": "Marker1",
             "description": "Marker1 Description",
             "prize": "10"
         },
         {
-            "key": 2,
+            "key": "2",
             "latlng": {"latitude": 40.20964, "longitude": -8.42955},
             "title": "Marker2",
             "description": "Marker2 Description",
