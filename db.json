@@ -1,0 +1,16 @@
+{
+    "markers": [
+        {
+            "id": 1,
+            "latlng": {"latitude": 40.20564, "longitude": -8.42955},
+            "title": "Marker1",
+            "description": "Marker1 Description"
+        },
+        {
+            "id": 2,
+            "latlng": {"latitude": 40.23564, "longitude": -8.43955},
+            "title": "Marker2",
+            "description": "Marker2 Description"
+        }
+    ]
+}
