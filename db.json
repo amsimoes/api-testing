@@ -8,7 +8,7 @@
         },
         {
             "key": 2,
-            "latlng": {"latitude": 40.23564, "longitude": -8.43955},
+            "latlng": {"latitude": 40.20964, "longitude": -8.42955},
             "title": "Marker2",
             "description": "Marker2 Description"
         }
