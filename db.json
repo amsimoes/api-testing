@@ -9,7 +9,7 @@
         },
         {
             "key": "2",
-            "latlng": {"latitude": 40.20964, "longitude": -8.42955},
+            "latlng": {"latitude": 40.20964, "longitude": -8.42755},
             "title": "Marker2",
             "description": "Marker2 Description",
             "prize": "12"
