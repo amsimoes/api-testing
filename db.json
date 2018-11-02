@@ -15,6 +15,14 @@
             "description": "Marker2 Description",
             "prize": "12",
             "distance": ""
+        },
+        {
+            "key": "3",
+            "latlng": {"latitude": 40.20464, "longitude": -8.42755},
+            "title": "Marker3",
+            "description": "Marker2 Description",
+            "prize": "12",
+            "distance": ""
         }
     ]
 }
