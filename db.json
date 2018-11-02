@@ -5,14 +5,16 @@
             "latlng": {"latitude": 40.20164, "longitude": -8.42955},
             "title": "Marker1",
             "description": "Marker1 Description",
-            "prize": "13"
+            "prize": "13",
+            "distance": ""
         },
         {
             "key": "2",
-            "latlng": {"latitude": 40.20964, "longitude": -8.42755},
+            "latlng": {"latitude": 40.20664, "longitude": -8.42755},
             "title": "Marker2",
             "description": "Marker2 Description",
-            "prize": "12"
+            "prize": "12",
+            "distance": ""
         }
     ]
 }
