@@ -5,24 +5,28 @@
             "latlng": {"latitude": 40.20164, "longitude": -8.42955},
             "title": "Marker1",
             "description": "Marker1 Description",
-            "prize": "13",
-            "distance": ""
+            "prize": "13"
         },
         {
             "key": "2",
             "latlng": {"latitude": 40.20664, "longitude": -8.42755},
             "title": "Marker2",
             "description": "Marker2 Description",
-            "prize": "12",
-            "distance": ""
+            "prize": "12"
         },
         {
             "key": "3",
             "latlng": {"latitude": 40.20464, "longitude": -8.42755},
             "title": "Marker3",
-            "description": "Marker2 Description",
-            "prize": "12",
-            "distance": ""
+            "description": "Marker3 Description",
+            "prize": "12"
+        },
+        {
+            "key": "4",
+            "latlng": {"latitude": 40.10464, "longitude": -8.42755},
+            "title": "Marker4",
+            "description": "Marker4 Description",
+            "prize": "20"
         }
     ]
 }
