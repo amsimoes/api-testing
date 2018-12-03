@@ -28,5 +28,17 @@
             "description": "Marker4 Description",
             "prize": "20"
         }
+    ],
+    "notifications": [
+        {
+            "key": "1",
+            "body": "A sua compra nº 35346 foi hoje enviada para distribuição.",
+            "date": "03/12"
+        },
+        {
+            "key": "2",
+            "body": "O seu produto Carrinho de Bebé foi aprovado pela nossa equipa.",
+            "date": "04/12"
+        }
     ]
 }
