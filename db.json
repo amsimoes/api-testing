@@ -5,28 +5,32 @@
             "latlng": {"latitude": 40.20164, "longitude": -8.42955},
             "title": "Ticketline",
             "description": "Ticketline",
-            "prize": "4"
+            "prize": "4",
+            "date": "07/12"
         },
         {
             "key": "2",
             "latlng": {"latitude": 40.20664, "longitude": -8.42755},
             "title": "Sonae",
             "description": "Sonae",
-            "prize": "4"
+            "prize": "4",
+            "date": "10/12"
         },
         {
             "key": "3",
             "latlng": {"latitude": 40.20464, "longitude": -8.42755},
             "title": "SIBS",
             "description": "SIBS",
-            "prize": "4"
+            "prize": "4",
+            "date": "12/12"
         },
         {
             "key": "4",
             "latlng": {"latitude": 40.10464, "longitude": -8.42755},
             "title": "KitKat",
             "description": "KitKat",
-            "prize": "4"
+            "prize": "4",
+            "date": "10/12"
         }
     ],
     "notifications": [
