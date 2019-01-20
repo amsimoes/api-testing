@@ -33,51 +33,7 @@
             "date": "10/12"
         }
     ],
-    "notifications": [
-        {
-            "key": "1",
-            "body": "A sua compra nº 35346 foi hoje enviada para distribuição.",
-            "date": "03/12"
-        },
-        {
-            "key": "2",
-            "body": "O seu produto Carrinho de Bebé foi aprovado pela nossa equipa.",
-            "date": "04/12"
-        }
-    ],
-    "products": [
-        {
-            "key": "1",
-            "name": "Cadeira de Gémeos",
-            "brand": "zippy",
-            "price": "560€"
-        },
-        {
-            "key": "2",
-            "name": "Bengala Road ZY Safe",
-            "brand": "chicco",
-            "price": "90€"
-        },
-        {
-            "key": "3",
-            "name": "Marsúpio Easyfit",
-            "brand": "zippy",
-            "price": "70€"
-        },
-        {
-            "key": "4",
-            "name": "Marsúpio Soohu Sling",
-            "brand": "zippy",
-            "price": "120€"
-        },
-        {
-            "key": "5",
-            "name": "Conjunto Rua Duo asdasdasdasdasdasd",
-            "brand": "zippy",
-            "price": "140€"
-        }
-    ],
     "store": {
-        "live": "false",
+        "live": "false"
     }
 }
