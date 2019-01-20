@@ -76,5 +76,6 @@
             "brand": "zippy",
             "price": "140€"
         }
-    ]
+    ],
+    "shop_live": "true",
 }
